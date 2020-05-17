@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'te^ec-kpy!=*6crtl$iz38+97z$o+*c!9y(ha1u5%&1!_1-aw@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
 	'pmd-wr-tracker.herokuapp.com',
