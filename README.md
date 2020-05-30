@@ -1,4 +1,6 @@
 # PMD WR Tracker
+Check it out [here](https://https://pmd-wr-tracker.herokuapp.com/)
+
 Made by Liversticks (Oliver X.)
 
 ## Functionality
